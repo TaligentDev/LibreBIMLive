@@ -14,4 +14,4 @@ Main features:
 
 and much more!
 
-First public version will be released on 06/20/2022, so stay tuned, more informations will be published on next weeks
+First public version will be released for public audit on 06/20/2022, so stay tuned, more informations will be published on next weeks
