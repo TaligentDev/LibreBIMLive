@@ -2,9 +2,9 @@
 
 Is an OpenSource web BIM Collaboration Platform based on OpenBIM and ISO standards.
 
-Functionalities planned the first release:
+Features planned for the first release:
 
-- Complete ACDat management (ISO 19650) with naming convenctions support
+- Complete ACDat management (ISO 19650) with naming conventions support
 - Markup/Issues support on all supported formats 
 - IFC viewer with multiple sections, color customization, advanced filtering, federation, etc..
 - Standard viewer for DXF/DWG/PDF/DOC files
@@ -12,3 +12,5 @@ Functionalities planned the first release:
 - Complete versioning system for all changes
 
 First public version will be released the 06/20/2022
+
+Stay tuned, more informations will be released here on next weeks
