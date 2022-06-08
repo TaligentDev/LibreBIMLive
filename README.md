@@ -1,4 +1,4 @@
-# LibreBIMLive
+# LibreBIM Live
 
 Is an OpenSource web BIM Collaboration Platform based on OpenBIM and ISO standards.
 
